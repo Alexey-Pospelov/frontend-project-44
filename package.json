@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Alexey-Pospelov/frontend-project-44#readme",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "lodash": "^4.17.21",
