@@ -4,3 +4,6 @@
 
 ### Asciinema brain-even.js record
 [![asciicast](https://asciinema.org/a/HN52fV6PhclQ5j9zCesieepvb.svg)](https://asciinema.org/a/HN52fV6PhclQ5j9zCesieepvb)
+
+### Asciinema brain-calc.js record
+[![asciicast](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy.svg)](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy)
