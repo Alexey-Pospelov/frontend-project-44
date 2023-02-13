@@ -7,3 +7,6 @@
 
 ### Asciinema brain-calc.js record
 [![asciicast](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy.svg)](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy)
+
+### Acsiinema brain-gcd.js record
+[![asciicast](https://asciinema.org/a/zytBWB8hvr5gtR0RD4begySHC.svg)](https://asciinema.org/a/zytBWB8hvr5gtR0RD4begySHC)
