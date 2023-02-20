@@ -18,7 +18,7 @@ export default () => {
     console.log(query);
 
     const userAnswer = readlineSync.question('Your answer: ');
-    const correctAnswer = (isEven(questionNumber) ? "'yes'" : "'no'");
+    const correctAnswer = (isEven(questionNumber) ? 'yes' : 'no');
     const errorMessage = `${userAnswer} is wrong answer ;(. Correct answer was ${correctAnswer}. Let's try again, ${userName}!`;
 
     if (userAnswer === correctAnswer) {
