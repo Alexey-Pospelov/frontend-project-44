@@ -8,8 +8,12 @@
 ### Asciinema brain-calc.js record
 [![asciicast](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy.svg)](https://asciinema.org/a/8q7fzBy86bNFkZqNRfBkZXoFy)
 
-### Acsiinema brain-gcd.js record
+### Asciinema brain-gcd.js record
 [![asciicast](https://asciinema.org/a/zytBWB8hvr5gtR0RD4begySHC.svg)](https://asciinema.org/a/zytBWB8hvr5gtR0RD4begySHC)
 
 ### Asciinema brain-progression.js record
 [![asciicast](https://asciinema.org/a/NNsSgiTfBiMIhYW3Z5JG4Xi8x.svg)](https://asciinema.org/a/NNsSgiTfBiMIhYW3Z5JG4Xi8x)
+
+### Asciinema brain-prime.js record
+[![asciicast](https://asciinema.org/a/1w6gkhYAZIbMqAPhGAsrlhTJI.svg)](https://asciinema.org/a/1w6gkhYAZIbMqAPhGAsrlhTJI)
+
